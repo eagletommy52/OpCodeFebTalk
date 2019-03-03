@@ -2,7 +2,7 @@
 Demos for Feb OpCode Talk @ Conde
 
 ## Slides
-Link to the talk slides are [here] (https://docs.google.com/presentation/d/1Mr73856jed7nTWjWTMijAOokJ1IKZKEyz9vnbl3uXP4/edit?usp=sharing)
+Link to the talk slides here https://docs.google.com/presentation/d/1Mr73856jed7nTWjWTMijAOokJ1IKZKEyz9vnbl3uXP4/edit?usp=sharing
 
 ## Demos
 See the subfolders of this repo for demo code
